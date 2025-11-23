@@ -34,7 +34,7 @@ redirect_from:
 
 Hi! Nice to virtually meet you!!
 
-I'm currently a 4th-year undergrad at Peking University. My research interest is protoplanetary disks and exoplanets. It's always joyful and exciting to look at these shining rings and diamonds up in the sky. 
+I'm currently a 4th-year undergrad at Peking University. My research interests are circumstellar disks and exoplanets. It's always joyful and exciting to look at these shining rings and diamonds up in the sky. 
 
 Know more about 
 <a href="{{ site.baseurl }}/research/">my research experience</a> 
