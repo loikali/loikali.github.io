@@ -14,22 +14,56 @@ redirect_from:
     text-align: center;
     padding: 30px 2px;   /* 高度可以调整 */
     color: white;          /* 标题文字颜色 */
+    border-radius: 4px;
 ">
   <h1 style="font-family: 'Dancing Script', cursive; font-size: 32px; margin: 0;">
     Within us, the universe contemplates itself.
   </h1>
 </div>
 
+&nbsp;
+
+<div style="font-size: 1.0em; line-height: 1.6; color: #333;">
+
+    <h2 style="margin-top: 0; color: #333;">Hi! Nice to virtually meet you!! 👋</h2>
+
+    <p>
+      I'm currently a 4th-year undergrad at Peking University. 
+      My research interests are <strong>circumstellar disks</strong> and <strong >exoplanets</strong>. 
+      It's always joyful and exciting to look at these shining rings and diamonds up in the sky.
+    </p>
+
+    <p>
+      Know more about 
+      <a href="{{ site.baseurl }}/research/" style="font-weight: bold;">my research experience</a> 
+      and 
+      <a href="{{ site.baseurl }}/aboutme/" style="font-weight: bold;">me</a>!
+    </p>
+
+</div>
+
 <!-- ---
 permalink: /
-title: "<span style='font-family: \"Dancing Script\", cursive; font-size: 32px;'>The universe contemplates itself through the mind of humankind.</span>"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-![Cat’s Paw Nebula (NIRCam Image) from JWST](/images/nebula.png) -->
+<div style="
+    background-image: url('/yihanli.github.io/images/title.png');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 30px 2px;   /* 高度可以调整 */
+    color: white;          /* 标题文字颜色 */
+">
+  <h1 style="font-family: 'Dancing Script', cursive; font-size: 32px; margin: 0;">
+    Within us, the universe contemplates itself.
+  </h1>
+</div>
+
 &nbsp;
 
 Hi! Nice to virtually meet you!!
@@ -39,7 +73,7 @@ I'm currently a 4th-year undergrad at Peking University. My research interests a
 Know more about 
 <a href="{{ site.baseurl }}/research/">my research experience</a> 
 and 
-<a href="{{ site.baseurl }}/aboutme/">me</a>!
+<a href="{{ site.baseurl }}/aboutme/">me</a>! -->
 
 <!-- <img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2021/09/STScI-01FFFXRJGFBDWMBBR2J7TZTQ37.png?w=1807&h=2256&fit=crop&crop=faces%2Cfocalpoint" 
      alt="protoplanetary disks" width="45%" style="float: left; margin-right: 2%;">
