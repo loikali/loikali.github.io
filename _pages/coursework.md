@@ -18,8 +18,8 @@ Below are selected course projects completed during my undergraduate studies.
         </p>
         
         <a href="{{ site.baseurl }}/files/DM_final.pdf" style="text-decoration: none;">
-            <div style="display: inline-block; background-color: #f6f8fa; border: 1px solid #d1d5da; padding: 5px 12px; border-radius: 6px; font-size: 0.9em; color: #24292e;">
-                📄 <strong>Report:</strong> N-body Investigation of Halo Density Profiles
+            <div style="display: inline-block; border: 1px solid rgba(128,128,128, 0.3);  padding: 5px 12px; border-radius: 6px; font-size: 0.9em;">
+                <strong>Report:</strong> N-body Investigation of Halo Density Profiles
             </div>
         </a>
     </div>
@@ -34,44 +34,48 @@ Below are selected course projects completed during my undergraduate studies.
         </p>
         
         <a href="{{ site.baseurl }}/files/proposal.pdf" style="text-decoration: none;">
-            <div style="display: inline-block; background-color: #f6f8fa; border: 1px solid #d1d5da; padding: 5px 12px; border-radius: 6px; font-size: 0.9em; color: #24292e;">
-                📄 <strong>Proposal:</strong> Mock JWST Proposal regarding FUor Object
+            <div style="display: inline-block; border: 1px solid rgba(128,128,128, 0.3);  padding: 5px 12px; border-radius: 6px; font-size: 0.9em;">
+                <strong>Proposal:</strong> Mock JWST Proposal regarding FUor Object
             </div>
         </a>
     </div>
 
     <div style="border-left: 4px solid #e24a4a; padding-left: 15px;">
-        <h3 style="margin-bottom: 5px; margin-top: 0;">Observational Experiments of Astrophysics</h3>
-        <span style="background-color: #f0f0f0; color: #555; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">Fall 2024</span>
+    <h3 style="margin-bottom: 5px; margin-top: 0;">Observational Experiments of Astrophysics</h3>
+    <span style="background-color: #f0f0f0; color: #555; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; font-weight: bold;">Fall 2024</span>
+    
+    <p style="margin-top: 10px; margin-bottom: 10px;">
+        Conducted imaging and spectral observations using PKU's 40cm and 60cm telescopes. 
+        I developed a <strong>Python pipeline from scratch</strong> to handle the full data lifecycle: from image calibration, alignment, and stacking, to performing aperture/PSF photometry and plotting HR diagrams. An extraordinary hands-on experience!
+    </p>
+    
+    <div style="display: flex; flex-direction: column; gap: 8px; align-items: flex-start;">
         
-        <p style="margin-top: 10px; margin-bottom: 10px;">
-            Conducted imaging and spectral observations using PKU's 40cm and 60cm telescopes. 
-            I developed a <strong>Python pipeline from scratch</strong> to handle the full data lifecycle: from image calibration, alignment, and stacking, to performing aperture/PSF photometry and plotting HR diagrams. An extraordinary hands-on experience!
-        </p>
-        
-        <div style="display: flex; flex-direction: column; gap: 8px;">
-            <a href="{{ site.baseurl }}/files/cluster.pdf" style="text-decoration: none;">
-                <div style="background-color: #f6f8fa; border: 1px solid #d1d5da; padding: 5px 12px; border-radius: 6px; font-size: 0.9em; color: #24292e;">
-                    📄 <strong>Report 1:</strong> Image Reduction & Photometry of M15
-                </div>
-            </a>
-            <a href="{{ site.baseurl }}/files/galaxy.pdf" style="text-decoration: none;">
-                <div style="background-color: #f6f8fa; border: 1px solid #d1d5da; padding: 5px 12px; border-radius: 6px; font-size: 0.9em; color: #24292e;">
-                    📄 <strong>Report 2:</strong> Image Reduction & Photometry of M81
-                </div>
-            </a>
-            <a href="{{ site.baseurl }}/files/spechomework.pdf" style="text-decoration: none;">
-                <div style="background-color: #f6f8fa; border: 1px solid #d1d5da; padding: 5px 12px; border-radius: 6px; font-size: 0.9em; color: #24292e;">
-                    📄 <strong>Report 3:</strong> Spectral Analysis of WR and Carbon Stars
-                </div>
-            </a>
-        </div>
+        <a href="{{ site.baseurl }}/files/cluster.pdf" style="text-decoration: none;">
+            <div style="border: 1px solid rgba(128,128,128, 0.3); padding: 5px 12px; border-radius: 6px; font-size: 0.9em;">
+                <strong>Report 1:</strong> Image Reduction & Photometry of M15
+            </div>
+        </a>
+
+        <a href="{{ site.baseurl }}/files/galaxy.pdf" style="text-decoration: none;">
+            <div style="border: 1px solid rgba(128,128,128, 0.3); padding: 5px 12px; border-radius: 6px; font-size: 0.9em;">
+                <strong>Report 2:</strong> Image Reduction & Photometry of M81
+            </div>
+        </a>
+
+        <a href="{{ site.baseurl }}/files/spechomework.pdf" style="text-decoration: none;">
+            <div style="border: 1px solid rgba(128,128,128, 0.3); padding: 5px 12px; border-radius: 6px; font-size: 0.9em;">
+                <strong>Report 3:</strong> Spectral Analysis of WR and Carbon Stars
+            </div>
+        </a>
+
     </div>
+</div>
 
 </div>
 
 <hr style="margin-top: 40px;">
-<p style="text-align: center; color: #666; font-style: italic;">
+<p style="text-align: center;  font-style: italic;">
     If you would like to discuss details, feel free to contact me!
 </p>
 

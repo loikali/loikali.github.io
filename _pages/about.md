@@ -23,9 +23,9 @@ redirect_from:
 
 &nbsp;
 
-<div style="font-size: 1.0em; line-height: 1.6; color: #333;">
+<div style="font-size: 1.0em; line-height: 1.6">
 
-    <h2 style="margin-top: 0; color: #333;">Hi! Nice to virtually meet you!! 👋</h2>
+    <h2 style="margin-top: 0;">Hi! Nice to virtually meet you!! 👋</h2>
 
     <p>
       I'm currently a 4th-year undergrad at Peking University. 
