@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 <div style="
-    background-image: url('/yihanli.github.io/images/title.png');
+    background-image: url('{{ site.baseurl }}/images/title.png');
     background-size: cover;
     background-position: center;
     text-align: center;
     padding: 30px 2px;   /* 高度可以调整 */
     color: white;          /* 标题文字颜色 */
     border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 ">
   <h1 style="font-family: 'Dancing Script', cursive; font-size: 32px; margin: 0;">
     Within us, the universe contemplates itself.
